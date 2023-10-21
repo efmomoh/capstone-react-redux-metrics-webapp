@@ -78,10 +78,14 @@ The Metrics Web App is a React-based capstone project aimed at developing a dyna
 - npm i -S axios
 - npm install axios --save
 - npm install react-icons --save
+- npm install --save font-awesome
 - npm install @react-icons/all-files --save
+- npm install --save @fortawesome/free-regular-svg-icons
 - npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
 - npm install react-bootstrap
 - npm i -S react-bootstrap
+- npm install react-redux @reduxjs/toolkit
+
 
 ### Usage
 
@@ -123,7 +127,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgements
 
-Acknowledgement microverse student for providing the platform.
+I would love to Acknowledge [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for providing the UI platform on which the project was built.
 
 ## 📝 License
 
