@@ -8,7 +8,7 @@ import './styles/Nav.css';
 const Nav = ({ onFilterChange }) => (
   <header>
     <nav className="flex">
-      <h1>AirTrakr</h1>
+      <h1>AirTracker</h1>
       <p>Most Views</p>
       <div className="nav-icons flex">
         <FontAwesomeIcon
