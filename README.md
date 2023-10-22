@@ -73,9 +73,9 @@ The Metrics Web App is a React-based capstone project aimed at developing a dyna
 - npm i -S prop-types
 - npm i -S react-router-dom
 - npm install react-icons --save
-- npm install --save @fortawesome/react-fontawesome 
+- npm install --save @fortawesome/react-fontawesome
 - Add Redux Toolkit (npm install react-redux @reduxjs/toolkit).
-- use npm install uuid   for universal unique identifier id project
+- use npm install uuid for universal unique identifier id project
 - npm install redux-thunk
 - npm install axios
 - npm i -S axios
@@ -109,7 +109,7 @@ We use jest to perform unit test on this project
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- - [Live Demo Link](https://efmomoh.github.io/Portfolio-setup-and-mobile-first/)
+- [Live Demo Link](https://efmomoh.github.io/capstone-react-redux-metrics-webapp/src)
 
 ## Authors
 
