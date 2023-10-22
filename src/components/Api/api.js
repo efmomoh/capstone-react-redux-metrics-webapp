@@ -1,4 +1,4 @@
-import axios from 'axios.js';
+import axios from 'axios';
 
 const apiUniqueKey = '625e320da1dff73739d188728d972a31';
 
