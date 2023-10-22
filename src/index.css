@@ -1,27 +1,25 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=League+Spartan:wght@400;500;700;800;900&display=swap');
+
+* {
   margin: 0;
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    'Roboto',
-    'Oxygen',
-    'Ubuntu',
-    'Cantarell',
-    'Fira Sans',
-    'Droid Sans',
-    'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family:
-    source-code-pro,
-    Menlo,
-    Monaco,
-    Consolas,
-    'Courier New',
-    monospace;
+:root {
+  --primary-color: #4b85f1;
+  --secondary-color: #f9f9f9;
+  --tex-color: #f0ede0;
+  --blue-1: #013fbd;
+  --blue-2: #0a51dd;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
+
+.flex {
+  display: flex;
 }
