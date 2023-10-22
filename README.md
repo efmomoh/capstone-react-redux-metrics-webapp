@@ -109,7 +109,7 @@ We use jest to perform unit test on this project
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://efmomoh.github.io/capstone-react-redux-metrics-webapp/src)
+- [Live Demo Link](https://www-airtracker-com.onrender.com)
 
 ## Authors
 
