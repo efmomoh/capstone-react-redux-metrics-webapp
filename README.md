@@ -1,4 +1,4 @@
-        ##React & Redux group project - Space Travelers' Hub APPLICATION
+        ## React-Redux Capstone Project
 
 # 📗 Table of Contents
 
@@ -35,7 +35,10 @@ The Metrics Web App is a React-based capstone project aimed at developing a dyna
 - Git
 - Linters
 
-<!-- ## Key Features: -->
+## Key Features:
+
+- Home page - showing list of cities
+- Details page - that shows each citiy air content details
 
 ## Getting Started
 
@@ -86,7 +89,6 @@ The Metrics Web App is a React-based capstone project aimed at developing a dyna
 - npm i -S react-bootstrap
 - npm install react-redux @reduxjs/toolkit
 
-
 ### Usage
 
 ```sh
@@ -102,7 +104,12 @@ We use jest to perform unit test on this project
 
 ```sh
   run npm run test
+  run npm run build
 ```
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+ - [Live Demo Link](https://efmomoh.github.io/Portfolio-setup-and-mobile-first/)
 
 ## Authors
 
@@ -117,7 +124,7 @@ We use jest to perform unit test on this project
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+We wholeheartedly welcome and encourage contributions, feedback, and suggestions from our community of users and collaborators. Your input is invaluable in helping us improve and enhance our project. Whether you come across issues that need addressing, have ideas for new features, or wish to contribute your expertise, we invite you to actively participate in our project's development journey. Together, we can create a more robust and user-friendly platform. Your engagement and enthusiasm are highly appreciated as we work towards making this project even better. Thank you for your support and involvement!
 
 Feel free to check the [issues page](https://github.com/efmomoh/capstone-react-redux-metrics-webapp/issues).
 
@@ -127,7 +134,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgements
 
-I would love to Acknowledge [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for providing the UI platform on which the project was built.
+I would like to express my heartfelt gratitude and acknowledge the invaluable contributions of [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) in providing the exceptional UI platform upon which our project was built. Nelson's expertise and design prowess have not only added a touch of elegance to our project but also significantly enhanced its user experience. His attention to detail, creativity, and dedication to crafting an outstanding user interface have been instrumental in making our project a success. We are truly fortunate to have collaborated with such a talented and skilled individual, and we extend our sincere thanks to Nelson for his remarkable work.
 
 ## 📝 License
 
